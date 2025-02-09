@@ -14,7 +14,7 @@ This project implements a Recurrent Neural Network (RNN) for sentiment analysis 
 
 1. Install dependencies: pip install -r requirements.txt
 
-2、 Run training: python sentiment_analysis_cell.py
+2. Run training: python sentiment_analysis_cell.py
 
 3. Evaluate performance on the test dataset.
 
